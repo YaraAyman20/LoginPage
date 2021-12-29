@@ -1,6 +1,21 @@
 # Getting Started with Create React App
+# You may have to update node.js or npm. Useful links:
+https://www.whitesourcesoftware.com/free-developer-tools/blog/how-to-update-node-js-to-latest-version/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Install material UI libraries:-
+// with npm
+npm install @material-ui/core
+
+// with yarn
+yarn add @material-ui/core
+
+// with npm
+npm install @material-ui/icons
+
+// with yarn
+yarn add @material-ui/icons
+
+
 
 ## Available Scripts
 
